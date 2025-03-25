@@ -62,6 +62,7 @@ We initially aimed to use ROS2 and the NAV2 stack for more advanced navigation, 
 
 ## 📸 Demo Video
 
-[![Watch the video]([https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/Tmpl5__fc7o))
+[![Watch the video](https://img.youtube.com/vi/Tmpl5__fc7o/0.jpg)](https://www.youtube.com/live/Tmpl5__fc7o?si=nchNzFDPd7hwx6pJ&t=4205)
 
-> Click the image above to watch a demo of the robot navigating and performing deliveries.
+> 📍 Click the image to watch the robot demo at the delivery section (starts at 1:10:05).
+
