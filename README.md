@@ -23,7 +23,7 @@ The goal of the competition was to autonomously deliver items in both indoor and
   - Initially attempted: ROS2 Foxy + NAV2 (via ros1_bridge)
   - Final implementation: ROS1 Noetic + `move_base`
 - **Simulator**: MORAI SIM
-- **Languages**: Python & C++
+- **Languages**: Python
 
 ---
 
