@@ -1,5 +1,6 @@
 # R-BIZ-DKU
 R-BIZ Challenge 2024 : Baedal Minjok Robot Delivery
+![image](https://github.com/user-attachments/assets/25ba1de1-075f-4b59-8e73-aed1e1d05bd9)
 
 # R-BIZ Challenge 2024 - Dilly Robot Delivery
 
@@ -62,3 +63,9 @@ This was a team project with 4 members: 3 graduate students and myself as the on
 Though I’ve often worked as a team lead, in this project I focused on learning and contributing as a strong follower.
 
 We initially aimed to use ROS2 and the NAV2 stack for more advanced navigation, but due to integration issues with MORAI SIM and unexpected time sync errors, we reverted to ROS1 Noetic and `move_base` in the final week before the competition.
+
+## 📸 Demo Video
+
+[![Watch the video]([https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/Tmpl5__fc7o))
+
+> Click the image above to watch a demo of the robot navigating and performing deliveries.
