@@ -1,6 +1,7 @@
 # R-BIZ Challenge 2024 - Dilly Robot Delivery
 
 This repository contains the source code for our participation in the **2024 International Robot Contest - R-BIZ Challenge**, specifically the **Dilly Robot Delivery Challenge** hosted by Woowa Brothers (Baemin).  
+
 The goal of the competition was to autonomously deliver items in both indoor and outdoor environments using various sensors and simulation tools.
 ![image](https://github.com/user-attachments/assets/25ba1de1-075f-4b59-8e73-aed1e1d05bd9)
 ---
