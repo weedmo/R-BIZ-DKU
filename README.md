@@ -68,3 +68,16 @@ We initially aimed to use ROS2 and the NAV2 stack for more advanced navigation, 
 
 > 📍 Click the image to watch the robot demo at the delivery section (starts at 1:10:05).
 
+---
+
+## Contributors ✨
+
+Thanks to these wonderful people who have contributed to this project:
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/weedmo"><img src="https://github.com/weedmo.png" width="100px;" alt="weedmo"/><br /><sub><b>weedmo</b></sub></a></td>
+    <td align="center"><a href="https://github.com/PotatoTasteChip"><img src="https://github.com/PotatoTasteChip.png" width="100px;" alt="PotatoTasteChip"/><br /><sub><b>PotatoTasteChip</b></sub></a></td>
+  </tr>
+</table>
+
